@@ -1,4 +1,4 @@
 m,n=input().split()
 k=int(n)
-for in range(k):
+for i in range(k):
         print(m)
